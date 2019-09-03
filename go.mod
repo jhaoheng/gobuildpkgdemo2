@@ -1,3 +1,3 @@
-module github.com/jhaoheng/testgopkg
+module github.com/jhaoheng/gobuildpkgdemo2
 
 go 1.12

@@ -1,4 +1,4 @@
-package testgopkg
+package gobuildpkgdemo2
 
 import "testing"
 
